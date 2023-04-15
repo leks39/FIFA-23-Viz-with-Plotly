@@ -6,3 +6,6 @@ Python has an array of visualization packages such as; Matplolib, Seaborn, Plotl
 This project makes use of the Plotly package to analyze data on football(soccer) players sourced from EA Sport's FIFA 2023 via Kaggle
 
 ![FIFAVIZ!]("C:\Users\ofagb\OneDrive\Documents\Python\Plotly FIFA 23\Fifa 23 Cover.jpg")
+
+
+![Fifa 23 Cover](https://user-images.githubusercontent.com/113634690/232197304-a90acf78-9829-48ee-b8e5-87a845dde69c.jpg)
