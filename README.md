@@ -4,3 +4,5 @@ Visualisations have always been an integral part of the Data Science process due
 Python has an array of visualization packages such as; Matplolib, Seaborn, Plotly, GGplot, Altair, and Bokeh, to mention a few. The plotly package was picked because of its interactive nature which allows for better storytelling, and better aesthetics when compared to Matplotlib and Seaborn, a wide range of statistical/scientific/ geographic charts and lastly its flexibility. Various graphs from this library are going to be used in illustrating the dataset. Also, a couple of pandas methods will be used to manipulate the dataset in order to present quality graphs.
 
 This project makes use of the Plotly package to analyze data on football(soccer) players sourced from EA Sport's FIFA 2023 via Kaggle
+
+!(FIFAVIZ!)["C:\Users\ofagb\OneDrive\Documents\Python\Plotly FIFA 23\Fifa 23 Cover.jpg"]
